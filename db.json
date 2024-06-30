@@ -1,0 +1,228 @@
+{
+    "personajes": [
+      {
+        "id": "1",
+        "name": "Albert Einstein",
+        "birthDate": "1879-03-14",
+        "deathDate": "1955-04-18",
+        "description": "Físico teórico alemán, desarrolló la teoría de la relatividad, una de las dos piedras angulares de la física moderna."
+      },
+      {
+        "id": "2",
+        "name": "Marie Curie",
+        "birthDate": "1867-11-07",
+        "deathDate": "1934-07-04",
+        "description": "Física y química polaca-francesa, pionera en el campo de la radiactividad y primera persona en recibir dos premios Nobel en diferentes ciencias."
+      },
+      {
+        "id": "3",
+        "name": "Mahatma Gandhi",
+        "birthDate": "1869-10-02",
+        "deathDate": "1948-01-30",
+        "description": "Líder del movimiento de independencia de la India, conocido por su filosofía de resistencia no violenta."
+      },
+      {
+        "id": "4",
+        "name": "Leonardo da Vinci",
+        "birthDate": "1452-04-15",
+        "deathDate": "1519-05-02",
+        "description": "Polímata del Renacimiento italiano, conocido por sus trabajos en arte, ciencia, música, matemáticas, ingeniería y anatomía."
+      },
+      {
+        "id": "5",
+        "name": "Cleopatra VII",
+        "birthDate": "69 BCE",
+        "deathDate": "30 BCE",
+        "description": "Última gobernante activa del Reino Ptolemaico de Egipto, conocida por su inteligencia, encanto y alianzas con Julio César y Marco Antonio."
+      },
+      {
+        "id": "6",
+        "name": "George Washington",
+        "birthDate": "1732-02-22",
+        "deathDate": "1799-12-14",
+        "description": "Primer presidente de los Estados Unidos y comandante en jefe del Ejército Continental durante la Guerra de Independencia de los Estados Unidos."
+      },
+      {
+        "id": "7",
+        "name": "Winston Churchill",
+        "birthDate": "1874-11-30",
+        "deathDate": "1965-01-24",
+        "description": "Primer ministro británico durante la Segunda Guerra Mundial, conocido por su liderazgo y oratoria."
+      },
+      {
+        "id": "8",
+        "name": "Joan of Arc",
+        "birthDate": "1412",
+        "deathDate": "1431-05-30",
+        "description": "Heroína nacional de Francia, líder militar en la Guerra de los Cien Años, canonizada como santa por la Iglesia Católica."
+      },
+      {
+        "id": "9",
+        "name": "Nelson Mandela",
+        "birthDate": "1918-07-18",
+        "deathDate": "2013-12-05",
+        "description": "Líder anti-apartheid y primer presidente negro de Sudáfrica, galardonado con el Premio Nobel de la Paz en 1993."
+      },
+      {
+        "id": "10",
+        "name": "Alexander the Great",
+        "birthDate": "356 BCE",
+        "deathDate": "323 BCE",
+        "description": "Rey de Macedonia que creó uno de los imperios más grandes de la historia antigua, conocido por sus habilidades militares y conquistas."
+      },
+      {
+        "id": "11",
+        "name": "Julius Caesar",
+        "birthDate": "100 BCE",
+        "deathDate": "44 BCE",
+        "description": "General y estadista romano, jugó un papel crítico en los eventos que llevaron al fin de la República Romana y al surgimiento del Imperio Romano."
+      },
+      {
+        "id": "12",
+        "name": "Socrates",
+        "birthDate": "470 BCE",
+        "deathDate": "399 BCE",
+        "description": "Filósofo griego clásico, conocido por su contribución a la ética y la epistemología y por su método de diálogo."
+      },
+      {
+        "id": "13",
+        "name": "Isaac Newton",
+        "birthDate": "1643-01-04",
+        "deathDate": "1727-03-31",
+        "description": "Físico, matemático y astrónomo inglés, formuló las leyes del movimiento y la gravitación universal."
+      },
+      {
+        "id": "14",
+        "name": "Genghis Khan",
+        "birthDate": "1162",
+        "deathDate": "1227-08-18",
+        "description": "Fundador y Gran Khan del Imperio Mongol, el imperio contiguo más grande de la historia."
+      },
+      {
+        "id": "15",
+        "name": "Christopher Columbus",
+        "birthDate": "1451",
+        "deathDate": "1506-05-20",
+        "description": "Navegante y explorador genovés, conocido por sus viajes transatlánticos y el descubrimiento de América para Europa."
+      },
+      {
+        "id": "16",
+        "name": "William Shakespeare",
+        "birthDate": "1564-04-23",
+        "deathDate": "1616-04-23",
+        "description": "Dramaturgo, poeta y actor inglés, ampliamente considerado como el mejor escritor en lengua inglesa y el más eminente dramaturgo del mundo."
+      },
+      {
+        "id": "17",
+        "name": "Napoleon Bonaparte",
+        "birthDate": "1769-08-15",
+        "deathDate": "1821-05-05",
+        "description": "Líder militar y emperador francés, conocido por sus campañas militares y reformas en Francia y Europa."
+      },
+      {
+        "id": "18",
+        "name": "Martin Luther King Jr.",
+        "birthDate": "1929-01-15",
+        "deathDate": "1968-04-04",
+        "description": "Líder del movimiento de derechos civiles en Estados Unidos, conocido por su lucha pacífica contra la segregación racial."
+      },
+      {
+        "id": "19",
+        "name": "Galileo Galilei",
+        "birthDate": "1564-02-15",
+        "deathDate": "1642-01-08",
+        "description": "Astrónomo, físico e ingeniero italiano, conocido como el 'padre de la ciencia observacional moderna'."
+      },
+      {
+        "id": "20",
+        "name": "Adolf Hitler",
+        "birthDate": "1889-04-20",
+        "deathDate": "1945-04-30",
+        "description": "Dictador alemán, líder del Partido Nazi y principal instigador de la Segunda Guerra Mundial y el Holocausto."
+      },
+      {
+        "id": "21",
+        "name": "Mother Teresa",
+        "birthDate": "1910-08-26",
+        "deathDate": "1997-09-05",
+        "description": "Monja y misionera católica albanesa-india, fundadora de las Misioneras de la Caridad y galardonada con el Premio Nobel de la Paz."
+      },
+      {
+        "id": "22",
+        "name": "John F. Kennedy",
+        "birthDate": "1917-05-29",
+        "deathDate": "1963-11-22",
+        "description": "35º presidente de los Estados Unidos, conocido por su liderazgo durante la Crisis de los Misiles en Cuba y su asesinato en 1963."
+      },
+      {
+        "id": "23",
+        "name": "Charles Darwin",
+        "birthDate": "1809-02-12",
+        "deathDate": "1882-04-19",
+        "description": "Naturalista inglés, conocido por su teoría de la evolución por selección natural."
+      },
+      {
+        "id": "24",
+        "name": "Elvis Presley",
+        "birthDate": "1935-01-08",
+        "deathDate": "1977-08-16",
+        "description": "Cantante y actor estadounidense, conocido como el 'Rey del Rock and Roll'."
+      },
+      {
+        "id": "25",
+        "name": "Queen Victoria",
+        "birthDate": "1819-05-24",
+        "deathDate": "1901-01-22",
+        "description": "Reina del Reino Unido de Gran Bretaña e Irlanda, su reinado es conocido como la era victoriana."
+      },
+      {
+        "id": "26",
+        "name": "Frida Kahlo",
+        "birthDate": "1907-07-06",
+        "deathDate": "1954-07-13",
+        "description": "Pintora mexicana conocida por sus autorretratos y su estilo surrealista y simbólico."
+      },
+      {
+        "id": "27",
+        "name": "Wolfgang Amadeus Mozart",
+        "birthDate": "1756-01-27",
+        "deathDate": "1791-12-05",
+        "description": "Compositor y músico austriaco, uno de los más influyentes y prolíficos de la música clásica occidental."
+      },
+      {
+        "id": "28",
+        "name": "Pablo Picasso",
+        "birthDate": "1881-10-25",
+        "deathDate": "1973-04-08",
+        "description": "Pintor y escultor español, cofundador del cubismo y uno de los artistas más influyentes del siglo XX."
+      },
+      {
+        "id": "29",
+        "name": "Harriet Tubman",
+        "birthDate": "1822",
+        "deathDate": "1913-03-10",
+        "description": "Abolicionista estadounidense, conocida por su trabajo en el Ferrocarril Subterráneo para ayudar a liberar a esclavos."
+      },
+      {
+        "id": "30",
+        "name": "Nikola Tesla",
+        "birthDate": "1856-07-10",
+        "deathDate": "1943-01-07",
+        "description": "Inventor, ingeniero eléctrico y mecánico serbio-americano, conocido por sus contribuciones al diseño del sistema moderno de electricidad de corriente alterna."
+      },
+      {
+        "id": "31",
+        "name": "Florence Nightingale",
+        "birthDate": "1820-05-12",
+        "deathDate": "1910-08-13",
+        "description": "Enfermera británica, fundadora de la enfermería moderna y conocida por su trabajo durante la Guerra de Crimea."
+      },
+      {
+        "id": "e011",
+        "name": "Ismar Reyes",
+        "birthDate": "1987-12-20",
+        "deathDate": "2060-12-20",
+        "description": "Mi pequeña descripcion..."
+      }
+    ]
+  }

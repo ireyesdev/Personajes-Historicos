@@ -1,0 +1,95 @@
+.form-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: rgba(47, 47, 47, 0.350);
+  }
+  
+  .form-container {
+    font-family: Rubik;
+    font-weight: 300;
+    max-width: 600px;
+    width: 100%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 25px;
+    font-family: Rubik;
+    color: #0AE69C
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  textarea {
+    resize: vertical;
+    min-height: 100px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+    
+  }
+  
+  .button-group {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 7px;
+  }
+  
+  .btn[type="submit"] {
+    background-color: #4CAF50; 
+    color: white;
+  }
+  
+  .btn[type="button"] {
+    background-color: #f44336; 
+    color: white;
+  }
+  
+  .btn[type="submit"]:hover {
+    background-color: #1f6422;
+  }
+  
+  .btn[type="button"]:hover {
+    background-color: #ce2418;
+  }
+
+  .error {
+    color: red;
+    font-size: 0.875em;
+    margin-top: 5px;
+  }
+  

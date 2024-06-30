@@ -1,0 +1,25 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px; 
+  }
+  
+  .logo-home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 5px;
+  }
+  
+  .logo-home {
+    width: 350px;
+    height: auto;
+  }
+  
+  .p-card {
+    width: 80%; 
+    max-width: 600px; 
+    text-align: center; 
+  }

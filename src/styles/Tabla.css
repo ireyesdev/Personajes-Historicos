@@ -1,0 +1,102 @@
+.table-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .table {
+    border-collapse: collapse;
+    width: 100%;
+    max-width: 900px;
+    margin: 20px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    background-color: #fff;
+    box-shadow: 0 2px 10px rgb(187, 187, 187);
+  }
+  
+  .table th {
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+    text-align: center;
+  }
+  
+  .table td{
+    padding: 12px 15px;
+    border: 1px solid #ddd;
+    text-align: lef;
+  }
+  
+  .table th {
+    background-color: cadetblue;
+    color: #fff;
+  }
+  
+  .table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .table tr:hover {
+    background-color: #e9ecef;
+  }
+  
+  /* Botones */
+  .button-link {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button-link-edit {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #4CAf50;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button-link-delete {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: white;
+    background-color: #f44336;
+    border: none;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button-link:hover {
+    background-color: #044b97;
+  }
+  
+  .button-link-edit:hover {
+    background-color: #1f6422;
+  }
+  
+  .button-link-delete:hover {
+    background-color: #ce2418;
+  }
+  
+  #centered-button {
+    text-align: center;
+    vertical-align: middle;
+  }
+  

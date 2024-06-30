@@ -1,0 +1,86 @@
+.main-search {
+    margin: 20px;
+  }
+  
+  .search-input {
+    display: flex;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    justify-content: right; 
+  }
+  
+  .search-input .search-box {
+    width: 287px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .search-buttons {
+    display: flex;
+    justify-content: right;
+    margin-bottom: 20px;
+  }
+  
+  .search-buttons button {
+    padding: 10px 20px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    background-color: white;
+    cursor: pointer;
+  }
+  
+  .search-buttons button.active {
+    background-color: #007bff;
+    color: white;
+    border: none;
+  }
+  
+
+  /* Paginations Styles */
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin-top: 1px;
+    margin-bottom: 60px;
+   
+    list-style-type: none;
+  }
+  
+   .page-item {
+    margin: 0 5px;
+  }
+  
+  .page-link {
+    display: block;
+    padding: 10px 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+    background-color: #f2f2f2;
+    color: #000;
+  }
+  
+  .page-item.active .page-link {
+    background-color: #007bff;
+    color: white;
+    border: 1px solid #007bff;
+  }
+
+  /* Spiner Styles*/
+
+.spinner {
+  border: 16px solid #f3f3f3;
+  border-top: 16px solid #3498db;
+  border-radius: 50%;
+  width: 120px;
+  height: 120px;
+  animation: spin 2s linear infinite;
+  margin: auto;
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
